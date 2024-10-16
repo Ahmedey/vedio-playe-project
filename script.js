@@ -32,13 +32,6 @@ const videos = [
     title: "Video 2",
     artist: "artist 2",
     // cover: "https://via.placeholder.com/250/8C4156/FFFFFF",
-    src: "https://cdn.pixabay.com/video/2020/01/05/30901-383991318_large.mp4",
-  },
-
-  {
-    title: "Video 3",
-    artist: "artist 2",
-    // cover: "https://via.placeholder.com/250/8C4156/FFFFFF",
     src: "./Kurlus.mp4",
   },
 ];
