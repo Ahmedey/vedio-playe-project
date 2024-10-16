@@ -1,6 +1,5 @@
 const videoinfo = document.querySelector(".video-info");
 const videoElement = document.createElement("video");
-// document.body.appendChild(videoElement);
 videoinfo.appendChild(videoElement);
 
 // Selecting Dom elements
